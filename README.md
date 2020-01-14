@@ -14,9 +14,11 @@ Baixe o arquivo .tar.gz no [site do Android Studio](https://developer.android.co
 Para facilitar, renomeie o arquivo baixado para "android-studio".  
   
 ## 2. Descompactando
-Descompacte esse arquivo .tar.gz dentro da pasta /usr/local conforme instrui no site do Androi Studio, para isso, use o seguinte código:  
+Descompacte esse arquivo .tar.gz dentro da pasta /usr/local conforme instrui no site do Android Studio, para isso, use o seguinte código:  
   
 ```sudo tar -zxvf android-studio.tar.gz -C /usr/local```  
+  
+Vale lembrar que para descompactar você precisa estar dentro do diretório em que o arquivo está, por exemplo, se o arquivo android-studio.tar.gz está em Downloads, você (o terminal no caso) precisa estar nesse diretório para descompactar.  
   
 ## 3. Instalando
 Agora acesse a pasta **bin** dentro da pasta android-studio que foi criada:  
@@ -27,10 +29,11 @@ Execute o código a seguir para instalar:
   
 ```./studio.sh```  
   
-Depois disso é só instalar de acordo com as suas preferências.  
+Depois disso, o instalador do programa será aberto e é só instalar de acordo com as suas preferências.  
+**Após finalizar a instalação NÃO feche o Android Studio ainda**  
   
 ## 4. Adicionando ao launcher
-Para criar um "atalho" do Android Studio permitindo que seja possível acessá-lo através do buscador de programas, entre no Android Studio e crie um projeto, depois vá em Tools (no menu superior), conforme mostra a imagem:  
+Para criar um "atalho" do Android Studio permitindo que seja possível acessá-lo através do buscador de programas, entre no Android Studio que foi aberto após a instalação e crie um projeto, depois vá em Tools (no menu superior), conforme mostra a imagem:  
   
 <img src="img1.png" />  
   
