@@ -34,7 +34,7 @@ Para criar um "atalho" do Android Studio permitindo que seja possível acessá-l
   
 <img src="img1.png" />  
   
-Clique em "Create desktop entry" ou algo parecido com isso, conforme msotra abaixo:  
+Clique em "Create desktop entry" ou algo parecido com isso, conforme mostra abaixo:  
   
 <img src="img2.png" />  
   
