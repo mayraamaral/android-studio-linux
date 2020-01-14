@@ -30,7 +30,15 @@ Execute o código a seguir para instalar:
 Depois disso é só instalar de acordo com as suas preferências.  
   
 ## 4. Adicionando ao launcher
-Para criar um "atalho" do Android Studio permitindo que seja possível acessá-lo através do buscador de programas, entre no Android Studio e crie um projeto, depois vá em Tools (no menu superior) e clique em "Create desktop entry" ou algo parecido com isso. Pronto, está feito, um arquivo chamado **jetbrains-studio.desktop** foi adicionado ao /usr/share/applications.
+Para criar um "atalho" do Android Studio permitindo que seja possível acessá-lo através do buscador de programas, entre no Android Studio e crie um projeto, depois vá em Tools (no menu superior), conforme mostra a imagem:  
+  
+<img src="img1.png" />  
+  
+Clique em "Create desktop entry" ou algo parecido com isso, conforme msotra abaixo:  
+  
+<img src="img2.png" />  
+  
+Pronto, está feito, um arquivo chamado **jetbrains-studio.desktop** foi adicionado ao /usr/share/applications.
   
 ## 5. Adicionando à Área de Trabalho
 Depois de ter adicionado ao launcher, para adicionar à Área de Trabalho, execute os seguintes códigos:  
