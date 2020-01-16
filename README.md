@@ -2,11 +2,15 @@
 Repositório simples para servir como guia para instalação do Android Studio no Linux Ubuntu, a versão que estou utilizando é a 18.04.  
   
 ## Guia
+* [0. Instalando o JDK8](#0-instalando-o-jdk8)
 * [1. Baixando o arquivo](#1-baixando-o-arquivo)
 * [2. Descompactando](#2-descompactando)
 * [3. Instalando](#3-instalando)
 * [4. Adicionando ao launcher](#4-adicionando-ao-launcher)
 * [5. Adicionando à Área de Trabalho](#5-adicionando-à-área-de-trabalho)
+  
+## 0. Instalando o JDK8
+Antes de começar a instalação do Android Studio é necessário instalar o Java Development Kit 8 (pelo menos para o React Native), então se ainda não instalou, eu já fiz um tutorial que pode ser [acessado por aqui](https://github.com/mayraamaral/jdk8-linux). Caso já tenha instalado ignore essa parte e siga com o resto dos passos.  
   
 ## 1. Baixando o arquivo
 Baixe o arquivo .tar.gz no [site do Android Studio](https://developer.android.com/studio).  
