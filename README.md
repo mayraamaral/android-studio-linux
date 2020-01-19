@@ -3,7 +3,7 @@ Repositório simples para servir como guia para instalação do Android Studio n
   
 ## Guia
 * [0. Instalando o JDK8](#0-instalando-o-jdk8)
-* [0.1. Instalando bibliotecas 32 bits](#0-1-instalando-bibliotecas)
+* [0.1. Instalando bibliotecas 32 bits](#01-instalando-bibliotecas)
 * [1. Baixando o arquivo](#1-baixando-o-arquivo)
 * [2. Descompactando](#2-descompactando)
 * [3. Instalando](#3-instalando)
