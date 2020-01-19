@@ -3,6 +3,7 @@ Repositório simples para servir como guia para instalação do Android Studio n
   
 ## Guia
 * [0. Instalando o JDK8](#0-instalando-o-jdk8)
+* [0.1. Instalando bibliotecas 32 bits](#0-1-instalando-bibliotecas)
 * [1. Baixando o arquivo](#1-baixando-o-arquivo)
 * [2. Descompactando](#2-descompactando)
 * [3. Instalando](#3-instalando)
@@ -12,6 +13,15 @@ Repositório simples para servir como guia para instalação do Android Studio n
 ## 0. Instalando o JDK8
 Antes de começar a instalação do Android Studio é necessário instalar o Java Development Kit 8 (pelo menos para o React Native), então se ainda não instalou, eu já fiz um tutorial que pode ser [acessado por aqui](https://github.com/mayraamaral/jdk8-linux). Caso já tenha instalado ignore essa parte e siga com o resto dos passos.  
   
+## 0.1. Instalando bibliotecas
+Antes de instalar o Android Studio é necessário instalar algumas bibliotecas 32 bits para o funcionamento correto.  
+No terminal, cole os códigos abaixo:  
+  
+```sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386```  
+  
+```sudo apt-get install libncurses5```  
+  
+Depois prossiga.  
 ## 1. Baixando o arquivo
 Baixe o arquivo .tar.gz no [site do Android Studio](https://developer.android.com/studio).  
   
